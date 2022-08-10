@@ -1,0 +1,28 @@
+h2{
+    font-size: 24px;
+}
+
+body{
+    background-color: #EBEDF3;
+    margin-top: 80px;
+    margin-bottom: 87px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.logo{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.form-apply{
+    margin-left: 485px;
+}
+
+.form-label{
+    font-weight: 500;
+}
+
+.btn{
+    background-color: #F64E60;
+    color: white;
+}
